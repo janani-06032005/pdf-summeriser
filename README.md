@@ -6,6 +6,8 @@ Upload PDF: Upload any PDF file to the application.
 Content Summarization: Automatically generates a concise summary of the uploaded document.
 Interactive Q&A: Ask questions related to the document, and get precise answers powered by Cohere LLM.
 User-Friendly Interface: Built with Streamlit for simplicity and ease of use.
+
+
 Technology Stack
 Frontend: Streamlit
 Backend: Python
