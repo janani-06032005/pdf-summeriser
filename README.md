@@ -10,6 +10,9 @@ User-Friendly Interface: Built with Streamlit for simplicity and ease of use.
 
 Technology Stack
 Frontend: Streamlit
+
 Backend: Python
+
 AI Model: Cohere LLM
+
 PDF Processing: PyPDF2
